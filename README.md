@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/theaminuli/modern-3d-portfolio/refs/heads/main/screenshot.png" alt="Modern 3D Portfolio Banner">
+  <img src="https://raw.githubusercontent.com/theaminulai/modern-3d-portfolio/refs/heads/main/screenshot.png" alt="Modern 3D Portfolio Banner">
 </div>
 
 # Modern 3D Portfolio
@@ -50,7 +50,7 @@ To set up Modern 3D Portfolio on your local machine:
 1. Clone the repository:
 
 ```sh
-  git clone https://github.com/theaminuli/modern-3d-portfolio.git
+  git clone https://github.com/theaminulai/modern-3d-portfolio.git
   cd modern-3d-portfolio
 ```
 
